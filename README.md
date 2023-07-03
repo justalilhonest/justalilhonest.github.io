@@ -1,3 +1,3 @@
 # justalilhonest.github.io
 
-just starting again
+changes: trying to make a new dev portfolio.
